@@ -191,11 +191,11 @@ float: r
     grid-template-columns: auto auto auto auto;
     max-height: fit-content;
     justify-content: ;
-    column-gap: 20px;
+    column-gap: 10px;
     justify-content: space-around;
     border: none;
-    margin-left: 200px;
-    margin-right:200px ;
+    margin-left: 100px;
+    margin-right:100px ;
     background-color: rgba(233, 231, 231, 0.789); ;
   }
 .cards {
@@ -220,7 +220,7 @@ float: r
     
   }
   .grid-item {
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     text-align: center;
     height: fit-content;
@@ -237,11 +237,11 @@ float: r
     
   }
   .grid-item_2 {
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     text-align: center;
-    height: 2%;
-    width: 2%;
+    height:fit-content ;
+    width:fit-content ;
   }
 /*new*/
 
@@ -585,7 +585,7 @@ footer .end span{
 
 
 #end_1{
-    padding-left: 40px;
+    padding-left: 60px;
     display: inline;
 }
 #end_2{
@@ -593,8 +593,8 @@ footer .end span{
     padding-left: 75%;
 }
 .thi0{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .thi1{
 float: left;
